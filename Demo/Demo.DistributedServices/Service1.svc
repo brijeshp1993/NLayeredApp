@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Demo.DistributedServices.Service1" CodeBehind="Concrete/Service1.cs" %>
